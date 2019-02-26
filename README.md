@@ -7,7 +7,7 @@ To start, these will be a bit unorganized, but I'll organize it as it grows
 
 [Giorgos Sfikas: medical imaging datasets](https://github.com/sfikas/medical-imaging-datasets)  
 [Andy Beam: medical data](https://github.com/beamandrew/medical-data)  
-[foogle dataset search](https://toolbox.google.com/datasetsearch)  
+[google dataset search](https://toolbox.google.com/datasetsearch)  
 [openneuro](https://openneuro.org/) [eg fast preview feature](https://openneuro.org/datasets/ds001715/versions/1.0.0/file-display/sub-03:anat:sub-03_T1w.nii.gz)  
 [multiBrain](https://github.com/Conxz/multiBrain)
 [grand-challenges](https://www.grand-challenge.org)

@@ -15,16 +15,16 @@ To start, these will be a bit unorganized, but I'll organize it as it grows
 ## General
 
 #### Automatic Non-rigid Histological Image Registration 
-[challenge for ISBI2019](https://anhir.grand-challenge.org)
-
+This is a [challenge for ISBI2019](https://anhir.grand-challenge.org)
+  
 #### [ChestXpert](https://stanfordmlgroup.github.io/competitions/chexpert/)
 224,316 chest radiographs of 65,240 patients, with labels from reports
-
+  
 #### [ABCD Neurocognitive Prediction Challenge](https://sibis.sri.com/abcd-np-challenge/)
-
+  
 #### [Studyforrest](http://studyforrest.org/data.html)
 Few subjects, but many modalities (T1,T2,SWI,Angio,DWI, fMRI during Forrest Gump at 3T (audio+visual+eyetracking+physio) and 7T (audio+physio only), some audio tasks, and other important visual tasks)
-
+  
 ## Unrelated but useful or fun
 
 [Moment in time](http://moments.csail.mit.edu/)

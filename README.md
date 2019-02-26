@@ -1,6 +1,5 @@
 # medical-datasets
-Tracking medical datasets, with a focus on medical imaging  
-
+Personal tracking of interesting medical datasets, with a focus on medical imaging  
 To start, these will be a bit unorganized, but I'll organize it as it grows  
 
 

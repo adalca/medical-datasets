@@ -59,11 +59,33 @@ Also available through [LUng Nodule Analysis (LUNA) challenge](https://luna16.gr
 [Fundus imaging](http://biobank.ctsu.ox.ac.uk/crystal/label.cgi?id=100016)  
 **Keywords**: very-large
   
+### [ADNI](http://adni.loni.usc.edu/)
+Various imaging (longitudinal MRI), Genetics, Clinical data  
+Several thousand patients  
+**Keyworks**: large, MRI, genetics, clinical
+
+### [Mindboggle](https://mindboggle.info/data.html)
+Seems like 101 manually labelled brain MRIs  
+**Keywords**: medium, MRI, brain, manual-segmentation
+
+
+### [Neuromorphometrics](http://www.neuromorphometrics.com/?page_id=23#academic)
+63 manually labelled brain scans.
+Costs ($1500?)
+[Discussion](https://www.nitrc.org/forum/message.php?msg_id=8792)
+**Keywords**: medium, MRI, brain, manual-segmentation, costly
+
 ### [Automatic Non-rigid Histological Image Registration](https://anhir.grand-challenge.org)
 This is a challenge for ISBI2019  
 
 ### [7-Tesla rs-fMRI](http://academictorrents.com/details/5fc2f273123336ee34b9ea635ef8440377a42888)
-22 particiapnts with cognitive and physiological mreasures, and 7T rs-fMRI
+22 particiapnts with cognitive and physiological mreasures, and 7T rs-fMRI  
+
+### [SpineWeb](http://spineweb.digitalimaginggroup.ca/)
+more than 200 subjects across several datasets (CTs, Xrays, MRIs)  
+
+
+
 
 ## Non-medical but useful / fun
 

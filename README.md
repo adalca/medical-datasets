@@ -2,6 +2,7 @@
 I maintain this list mostly as a personal braindump of interesting medical datasets, with a focus on medical imaging.   
 Rather than try to group / cluster datasets, I'm going to try to maintain a set of keywords for each.
 
+**Disclaimer**: please remember to solve real clinical problems ☺
 
 ## Other lists or pooling resources ([relevant xkcd](https://xkcd.com/927/))
 
@@ -16,8 +17,6 @@ Rather than try to group / cluster datasets, I'm going to try to maintain a set 
  - [openneuro](https://openneuro.org/) databse  
     Note the nice ["fast preview" feature](https://openneuro.org/datasets/ds001715/versions/1.0.0/file-display/sub-03:anat:sub-03_T1w.nii.gz)  
  - [The Cancer Image Archive](http://www.cancerimagingarchive.net/)
-
-
 
 ## Main Medical Imaging List
   

@@ -26,7 +26,7 @@ Rather than try to group / cluster datasets, I'm going to try to maintain a set 
 
 ### [Cancer Image Archive](http://www.cancerimagingarchive.net/)
 Several collections  
-Tons of Images of various kinds, including CT, MR, Pathology, PT, with diagnoses
+Tons of Images of various kinds, including CT, MR, Pathology, PT, with diagnoses  
 **Keywords**: vary-large, CT, MR, labels
   
   
@@ -36,11 +36,12 @@ Part of Cancer Imaging Archive
 **Keywords**: large, CT, labels
 
 ### [ABCD Neurocognitive Prediction Challenge](https://sibis.sri.com/abcd-np-challenge/)
-MRI for 8500 yound (9-10yo) subjects (about 4100 for training)
+MRI for 8500 yound (9-10yo) subjects (about 4100 for training)  
 **Keywords**: large, MRI
   
 ### [Studyforrest](http://studyforrest.org/data.html)
-Few subjects, but many modalities (T1,T2,SWI,Angio,DWI, fMRI during Forrest Gump at 3T (audio+visual+eyetracking+physio) and 7T (audio+physio only), some audio tasks, and other important visual tasks)
+Few subjects, but many modalities (T1,T2,SWI,Angio,DWI, fMRI during Forrest Gump at 3T (audio+visual+eyetracking+physio) and 7T (audio+physio only), some audio tasks, and other important visual tasks)  
+**Keywords**: small, multi-modal
   
 ### [Lung Image Database Consortium](https://wiki.cancerimagingarchive.net/display/Public/LIDC-IDRI)
 LIDC-IDRI consists of diagonstic and lung cancer screening CTs.   

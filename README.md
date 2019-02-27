@@ -20,7 +20,7 @@ Rather than try to group / cluster datasets, I'm going to try to maintain a set 
 
 ## Main Medical Imaging List
   
-### [ChestXpert](https://stanfordmlgroup.github.io/competitions/chexpert/)
+### [CheXpert](https://stanfordmlgroup.github.io/competitions/chexpert/)
 224,316 chest radiographs of 65,240 patients, with labels from reports  
 **Keywords**: very-large, X-ray, labels
   

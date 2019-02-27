@@ -25,7 +25,7 @@ Rather than try to group / cluster datasets, I'm going to try to maintain a set 
 **Keywords**: very-large, X-ray, labels
   
 ### [ChestXray-NIHCC](https://nihcc.app.box.com/v/ChestXray-NIHCC)
-100000 X-ray  
+100000 radiographs  
 **Keywords**: very-large, X-ray, labels
 
 ### [Cancer Image Archive](http://www.cancerimagingarchive.net/)

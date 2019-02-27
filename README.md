@@ -3,7 +3,7 @@ I maintain this list mostly as a personal braindump of interesting medical datas
 Rather than try to group / cluster datasets, I'm going to try to maintain a set of keywords for each.
 
 
-## Other lists or pooling resources
+## Other lists or pooling resources ([relevant xkcd](https://xkcd.com/927/))
 
  - Giorgos Sfikas: medical imaging datasets on [github](https://github.com/sfikas/medical-imaging-datasets)  
  - Andy Beam: medical data on [github](https://github.com/beamandrew/medical-data)  

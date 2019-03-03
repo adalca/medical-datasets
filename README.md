@@ -103,6 +103,10 @@ more than 200 subjects across several datasets (CTs, Xrays, MRIs)
 predict sepsis in an ICU population  
 5000 ICU patients in three separate hospital systems  
 
+### [eICU-CRD](https://eicu-crd.mit.edu/)
+detailed information about critical care stays for over 200,000 admissions at 200+ hospitals across the US.  
+With access to MIMIC, can access eICU-CRD immediately after signing an updated DUA.  
+[paper](https://www.nature.com/articles/sdata2018178)  
 
 ## Non-medical but useful / fun
 

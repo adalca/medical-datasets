@@ -97,6 +97,19 @@ more than 200 subjects across several datasets (CTs, Xrays, MRIs)
 ### [Whole-Heart and Great Vessel Segmentation from 3D Cardiovascular MRI in Congenital Heart Disease](http://segchd.csail.mit.edu/data.html)
 20 cardiac MR images in Congenital Heart Disease  
 
+### [Longitudinal Neuroimaging on arithmetic processing in children](https://openneuro.org/datasets/ds001486/versions/1.2.1)  
+[paper](https://www.nature.com/articles/sdata201940)  
+3T fMRI 132 typical dev children, 2 time points, four tasks  
+**Keywords**: medium, fMRI
+
+### [ATLAS: Anatomical Tracings of Lesions After Stroke](http://fcon_1000.projects.nitrc.org/indi/retro/atlas.html)
+229 T1-weighted MRI scans (n=220) with lesion segmentation  
+MNI152 standard-space T1-weighted average structural template image  
+A .csv file containing lesion metadata  
+[paper](https://www.nature.com/articles/sdata201811)  
+**keywords**: medium, MRI, segmentations  
+
+
 ## Non-imaging
 
 ### [PhysioNet / Computing in Cardiology 2019 Challenge](https://physionet.org/challenge/2019/)

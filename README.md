@@ -17,6 +17,7 @@ Rather than try to group / cluster datasets, I'm going to try to maintain a set 
  - [openneuro](https://openneuro.org/) databse  
     Note the nice ["fast preview" feature](https://openneuro.org/datasets/ds001715/versions/1.0.0/file-display/sub-03:anat:sub-03_T1w.nii.gz)  
  - [The Cancer Image Archive](http://www.cancerimagingarchive.net/)
+ - [Cornell Public Image Databases](http://www.via.cornell.edu/databases/)  
 
 ## Main Medical Imaging List
   
@@ -92,7 +93,7 @@ This is a challenge for ISBI2019
 22 particiapnts with cognitive and physiological mreasures, and 7T rs-fMRI  
 
 ### [SpineWeb](http://spineweb.digitalimaginggroup.ca/)
-more than 200 subjects across several datasets (CTs, Xrays, MRIs)  
+200+ subjects across several datasets (CTs, Xrays, MRIs)  
 
 ### [Whole-Heart and Great Vessel Segmentation from 3D Cardiovascular MRI in Congenital Heart Disease](http://segchd.csail.mit.edu/data.html)
 20 cardiac MR images in Congenital Heart Disease  
@@ -111,7 +112,7 @@ A .csv file containing lesion metadata
 
 
 ### [SIMON](http://fcon_1000.projects.nitrc.org/indi/retro/SIMON.html)
-Single Voluneer, 73 Sessions at multiple sites over ~17 years  
+Single voluneer, 73 Sessions at multiple sites over ~17 years  
 MRI, at least T1 at each session, with other modalities varying by session.  
 Phenotype file provided  
 **Keywords**: small, MRI, longitudinal

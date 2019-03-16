@@ -1,6 +1,7 @@
 # List of Medical Datasets
 I maintain this list mostly as a personal braindump of interesting medical datasets, with a focus on medical imaging.   
-Rather than try to group / cluster datasets, I'm going to try to maintain a set of keywords for each.
+Rather than try to group / cluster datasets, I'm going to try to maintain a set of keywords for each.  
+See [commit log](https://github.com/adalca/medical-datasets/commits/master) for addition log.
 
 **Disclaimer**: please remember to solve real clinical problems ☺
 

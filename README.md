@@ -36,6 +36,10 @@ See [commit log](https://github.com/adalca/medical-datasets/commits/master) for 
 Need to request access  
 **Keywords**: very-large, X-ray, labels
 
+### [PadChest](http://bimcv.cipf.es/bimcv-projects/padchest/)
+160,000 images from 67,000 patients that were interpreted and reported by radiologists   
+labeled with 174 different radiographic findings,  19 differential diagnoses and 104 anatomic locations organized as a hierarchical taxonomy mapped to standard Unified Medical Language System (UMLS)  
+**Keywords**: very-large, X-ray, labels
 
 ### [Cancer Image Archive](http://www.cancerimagingarchive.net/)
 Several collections  

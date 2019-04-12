@@ -1,7 +1,7 @@
 # List of Medical Datasets
 I maintain this list mostly as a personal braindump of interesting medical datasets, with a focus on medical imaging.   
 Rather than try to group / cluster datasets, I'm going to try to maintain a set of keywords for each.  
-See [commit log](https://github.com/adalca/medical-datasets/commits/master) for addition log.
+See [commit log](https://github.com/adalca/medical-datasets/commits/master) for a list of additions over time.
 
 **Disclaimer**: please remember to solve real clinical problems ☺
 
@@ -56,6 +56,9 @@ Part of Cancer Imaging Archive
 MRI for 8500 yound (9-10yo) subjects (about 4100 for training)  
 **Keywords**: large, MRI
   
+### [MRNet](https://stanfordmlgroup.github.io/competitions/mrnet/)
+1,370 knee MRI exams with diagonsis (healthy/ACL tear/meniscal tear)  
+**Keywords**: large, MRI
 
 ### [fastMRI](https://fastmri.med.nyu.edu/)
 k-space data  

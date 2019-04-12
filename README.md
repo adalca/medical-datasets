@@ -58,7 +58,7 @@ MRI for 8500 yound (9-10yo) subjects (about 4100 for training)
   
 ### [MRNet](https://stanfordmlgroup.github.io/competitions/mrnet/)
 1,370 knee MRI exams with diagonsis (healthy/ACL tear/meniscal tear)  
-**Keywords**: large, MRI
+**Keywords**: large, MRI, labels
 
 ### [fastMRI](https://fastmri.med.nyu.edu/)
 k-space data  

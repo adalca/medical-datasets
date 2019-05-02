@@ -5,21 +5,6 @@ See [commit log](https://github.com/adalca/medical-datasets/commits/master) for 
 
 **Disclaimer**: please remember to solve real clinical problems ☺
 
-## Other lists or pooling resources ([relevant xkcd](https://xkcd.com/927/))
-
- - Giorgos Sfikas: medical imaging datasets on [github](https://github.com/sfikas/medical-imaging-datasets)  
- - Andy Beam: medical data on [github](https://github.com/beamandrew/medical-data)  
- - Christopher Madan: [openMorph](https://github.com/cMadan/openMorph) (open-access MRI, well structured list)
- - Stephen Aylward's list of open-Access [Medial Image Repositories](http://www.aylward.org/notes/open-access-medical-image-repositories)
- - [google dataset search](https://toolbox.google.com/datasetsearch)  
- - [grand-challenges](https://www.grand-challenge.org)
- - [academic torrents](http://academictorrents.com/)
- - [multiBrain](https://github.com/Conxz/multiBrain)  
- - [openneuro](https://openneuro.org/) databse  
-    Note the nice ["fast preview" feature](https://openneuro.org/datasets/ds001715/versions/1.0.0/file-display/sub-03:anat:sub-03_T1w.nii.gz)  
- - [The Cancer Image Archive](http://www.cancerimagingarchive.net/)
- - [Cornell Public Image Databases](http://www.via.cornell.edu/databases/)  
-
 ## Main Medical Imaging List
   
 ### [CheXpert](https://stanfordmlgroup.github.io/competitions/chexpert/)
@@ -153,3 +138,20 @@ With access to MIMIC, can access eICU-CRD immediately after signing an updated D
 ## Non-medical but useful / fun
 
 [Moment in time](http://moments.csail.mit.edu/)
+
+
+## Other lists or pooling resources ([relevant xkcd](https://xkcd.com/927/))
+
+ - Giorgos Sfikas: medical imaging datasets on [github](https://github.com/sfikas/medical-imaging-datasets)  
+ - Andy Beam: medical data on [github](https://github.com/beamandrew/medical-data)  
+ - Christopher Madan: [openMorph](https://github.com/cMadan/openMorph) (open-access MRI, well structured list)
+ - Stephen Aylward's list of open-Access [Medial Image Repositories](http://www.aylward.org/notes/open-access-medical-image-repositories)
+ - [google dataset search](https://toolbox.google.com/datasetsearch)  
+ - [grand-challenges](https://www.grand-challenge.org)
+ - [academic torrents](http://academictorrents.com/)
+ - [multiBrain](https://github.com/Conxz/multiBrain)  
+ - [openneuro](https://openneuro.org/) databse  
+    Note the nice ["fast preview" feature](https://openneuro.org/datasets/ds001715/versions/1.0.0/file-display/sub-03:anat:sub-03_T1w.nii.gz)  
+ - [The Cancer Image Archive](http://www.cancerimagingarchive.net/)
+ - [Cornell Public Image Databases](http://www.via.cornell.edu/databases/)  
+ 

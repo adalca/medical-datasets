@@ -55,6 +55,11 @@ Part of a [challenge](http://fastmri.org/)
 1704 MRI, 556 amyloid and tau CSF samples, blood markers, genetic info and longitudinal cognitive data on ~400 at risk individuals  
 **Keywords**: medium, MRI, genetics, labels  
 
+### [Medical Segmentation Decathlon](http://medicaldecathlon.com)
+10 Medical image datasets with segmentations  
+2000+ CT & MR images of various organs from different sources  
+**Keywords**: medium, MRI, segmentations  
+
 ### [MRIdata](http://mridata.org/)
 List of mri k-space datasets  
 

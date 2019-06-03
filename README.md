@@ -37,6 +37,10 @@ Part of Cancer Imaging Archive
 50000+ patients with CT data, some pathology, limited availability  
 **Keywords**: very-large, CT, labels
 
+### [DeepLesion](https://nihcc.app.box.com/v/DeepLesion)  
+32000+ CT scans with annotations, meta-data, semantic labels from radiological reports  
+**Keywords**: very-large, CT, labels
+
 ### [ABCD Neurocognitive Prediction Challenge](https://sibis.sri.com/abcd-np-challenge/)
 MRI for 8500 yound (9-10yo) subjects (about 4100 for training)  
 **Keywords**: large, MRI

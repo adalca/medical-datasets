@@ -123,14 +123,15 @@ A .csv file containing lesion metadata
 [paper](https://www.nature.com/articles/sdata201811)  
 **Keywords**: medium, MRI, segmentations  
 
-
 ### [SIMON](http://fcon_1000.projects.nitrc.org/indi/retro/SIMON.html)
 Single voluneer, 73 Sessions at multiple sites over ~17 years  
 MRI, at least T1 at each session, with other modalities varying by session.  
 Phenotype file provided  
 **Keywords**: small, MRI, longitudinal
 
-
+### [100 micron MRI of Human Brain](https://histopath.nmr.mgh.harvard.edu/images/?page=images)  
+Single volume, ultra-high resolution MRI dataset (100-micron)  
+**Keywords**: small, MRI
 
 
 ## Non-imaging

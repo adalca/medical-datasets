@@ -64,6 +64,12 @@ Part of a [challenge](http://fastmri.org/)
 2000+ CT & MR images of various organs from different sources  
 **Keywords**: medium, MRI, segmentations  
 
+### [MASSIVE](http://massive-data.org/download.html)  
+Multiple Acquisitions for Standardization of Structural Imaging Validation and Evaluation  
+8000 diffusion-weighted volumes  
+10 3D FLAIR, T1-, and T2-weighted datasets of a single healthy subject  
+**Keywords**: large, MRI
+
 ### [MRIdata](http://mridata.org/)
 List of mri k-space datasets  
 

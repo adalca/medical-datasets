@@ -94,6 +94,13 @@ Various imaging (longitudinal MRI), Genetics, Clinical data
 Several thousand patients  
 **Keyworks**: large, MRI, genetics, clinical
 
+
+### [VISCERAL](http://www.visceral.eu/)  
+~120 image volumes (whole body CT and MRI images)  
+more than 1900 annotated anatomical structures  
+**Keywords**: medium, MRI, CT, whole-body, manual-segmentation
+
+
 ### [Mindboggle](https://mindboggle.info/data.html)
 Seems like 101 manually labelled brain MRIs  
 **Keywords**: medium, MRI, brain, manual-segmentation

@@ -144,8 +144,12 @@ Phenotype file provided
 
 ### [100 micron MRI of Human Brain](https://histopath.nmr.mgh.harvard.edu/images/?page=images)  
 Single volume, ultra-high resolution MRI dataset (100-micron)  
-**Keywords**: small, MRI
+**Keywords**: small, MRI, brain
 
+
+### [Brain Catalogue](https://braincatalogue.org/)  
+(ex-vivo) brain MRIs or brains of different animals  
+**Keywords**: small, MRI, brain, animals
 
 ## Non-imaging
 

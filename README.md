@@ -149,7 +149,7 @@ Single volume, ultra-high resolution MRI dataset (100-micron)
 
 ### [Natural Scenes Dataset (CMRR initiative)](http://www.naturalscenesdataset.org/)
 8-subjects large-scale fMRI (40-sessions, high sampling, high resolution). T1w, T2w, T2*w MRI  
-[Video](https://www.youtube.com/watch?v=wD9BCMKb2Qg&feature=youtu.be)  
+[Video](https://www.youtube.com/watch?v=wD9BCMKb2Qg&feature=youtu.be) description    
 **Keywords**: small, MRI, brain, fMRI
 
 ### [Brain Catalogue](https://braincatalogue.org/)  

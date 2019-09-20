@@ -18,6 +18,7 @@ See [commit log](https://github.com/adalca/medical-datasets/commits/master) for 
 ### [MIMIC-CXR](https://physionet.org/physiobank/database/mimiccxr/)
 371,920 chest x-rays associated with 227,943 imaging studies  
 3/16/2019: Not yet linked with MIMIC ICU data. See [news article](http://news.mit.edu/2019/mimic-chest-x-ray-database-0201)  
+v2: free-text radiology reports  
 Need to request access  
 **Keywords**: very-large, X-ray, labels
 

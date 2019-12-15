@@ -52,7 +52,7 @@ MRI for 8500 yound (9-10yo) subjects (about 4100 for training)
 
 ### [fastMRI](https://fastmri.med.nyu.edu/)
 k-space data  
-1500 fully sample knee MRIs and 10K clinical MRIs  
+1500 fully sample knee MRIs and 10K clinical MRIs, and 6.5K brain MRIs.  
 Part of a [challenge](http://fastmri.org/)  
 **Keywords**: large, MRI, k-space
 

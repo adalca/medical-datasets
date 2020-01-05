@@ -125,7 +125,12 @@ This is a challenge for ISBI2019
 ### [Whole-Heart and Great Vessel Segmentation from 3D Cardiovascular MRI in Congenital Heart Disease](http://segchd.csail.mit.edu/data.html)
 20 cardiac MR images in Congenital Heart Disease  
 
-### [Longitudinal Neuroimaging on arithmetic processing in children](https://openneuro.org/datasets/ds001486/versions/1.2.1)  
+### [Longitudinal Neuroimaging in Children](https://openneuro.org/datasets/ds001894/)
+[paper](https://www.nature.com/articles/s41597-019-0338-5)  
+~50 children (~10yo) with single follow-up with MRI, fMRI and assesments  
+**Keywords**: medium, fMRI, longitudinal
+
+### [Longitudinal Neuroimaging on arithmetic processing in children](https://openneuro.org/datasets/ds001486)  
 [paper](https://www.nature.com/articles/sdata201940)  
 3T fMRI 132 typical dev children, 2 time points, four tasks  
 **Keywords**: medium, fMRI, longitudinal

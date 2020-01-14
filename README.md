@@ -43,9 +43,15 @@ Part of Cancer Imaging Archive
 **Keywords**: very-large, CT, labels
 
 ### [ABCD Neurocognitive Prediction Challenge](https://sibis.sri.com/abcd-np-challenge/)
-MRI for 8500 yound (9-10yo) subjects (about 4100 for training)  
+MRI for 8500 young (9-10yo) subjects (about 4100 for training)  
 **Keywords**: large, MRI
   
+### [Cross-Sectional Multidomain Lexical Processing](https://openneuro.org/datasets/ds002236)
+two large scale neuroimaging datasets on reading and language development  
+Over 3000 MRI, fMRI  
+[article](https://news.vanderbilt.edu/2020/01/10/vanderbilt-researcher-shares-more-than-3000-brain-scans-to-support-the-study-of-reading-and-language-development/amp/?__twitter_impression=true) | [more resources](https://osf.io/f5bde/)  
+**Keywords**: large, MRI
+
 ### [MRNet](https://stanfordmlgroup.github.io/competitions/mrnet/)
 1,370 knee MRI exams with diagonsis (healthy/ACL tear/meniscal tear)  
 **Keywords**: large, MRI, labels

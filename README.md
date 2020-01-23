@@ -42,6 +42,10 @@ Part of Cancer Imaging Archive
 32000+ CT scans with annotations, meta-data, semantic labels from radiological reports  
 **Keywords**: very-large, CT, labels
 
+### [EchoNet-Dynamic](https://echonet.github.io/dynamic/)  
+10,000+ labeled echocardiogram videos and human expert tracing  
+**Keywords**: very-large, ultrasound, labels
+
 ### [ABCD Neurocognitive Prediction Challenge](https://sibis.sri.com/abcd-np-challenge/)
 MRI for 8500 young (9-10yo) subjects (about 4100 for training)  
 **Keywords**: large, MRI

@@ -164,7 +164,7 @@ Phenotype file provided
 
 ### [BigBrain](https://bigbrain.loris.ca/main.php)  
 Single volume, histological  space , 100 micron) with GM/WM surfaces and [cortical layers](https://twitter.com/KonradWagstyl/status/1246467305372037121)  
-[ftp](ftp://bigbrain.loris.ca) | [interactive](https://bigbrain.humanbrainproject.org/)  
+ftp://bigbrain.loris.ca | [interactive](https://bigbrain.humanbrainproject.org/)  
 **Keywords**: small, histology, high-resolution, segmentations
 
 

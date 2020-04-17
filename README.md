@@ -100,6 +100,26 @@ Also available through [LUng Nodule Analysis (LUNA) challenge](https://luna16.gr
 [Fundus imaging](http://biobank.ctsu.ox.ac.uk/crystal/label.cgi?id=100016)  
 **Keywords**: very-large
   
+
+
+### [COVID-CT](https://github.com/UCSD-AI4H/COVID-CT)  
+349 CT images collected from several COVID19-related papers  
+Image captions  
+**Keywords**: medium, CT, covid
+
+### [COVID-Chest XRay](https://github.com/ieee8023/covid-chestxray-dataset)
+~150 xrays, ongoing, some hospital data  
+**Keywords**: medium, x-ray, covid
+
+### [Penumonia X-Ray](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
+~5000 xrays  
+**Keywords**: medium, x-ray, pneumonia
+
+### [MedSeg COVID-19 CT](http://medicalsegmentation.com/covid19/)
+~100 segmented CT slices  
+**Keywords**: medium, CT, segmentations, covid
+
+
 ### [ADNI](http://adni.loni.usc.edu/)
 Various imaging (longitudinal MRI), Genetics, Clinical data  
 Several thousand patients  

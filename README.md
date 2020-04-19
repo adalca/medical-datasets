@@ -102,6 +102,8 @@ Also available through [LUng Nodule Analysis (LUNA) challenge](https://luna16.gr
   
 
 
+
+
 ### [COVID-CT](https://github.com/UCSD-AI4H/COVID-CT)  
 349 CT images collected from several COVID19-related papers  
 Image captions  
@@ -118,6 +120,11 @@ Image captions
 ### [MedSeg COVID-19 CT](http://medicalsegmentation.com/covid19/)
 ~100 segmented CT slices  
 **Keywords**: medium, CT, segmentations, covid
+
+### [BSTI COVID19](https://bsticovid19.cimar.co.uk/worklist/?embedded=)
+ongoing, about 60 patients at last check, CT  
+[paper pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7138155/)  
+**Keywords**: medium, CT, covid
 
 
 ### [ADNI](http://adni.loni.usc.edu/)

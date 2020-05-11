@@ -126,6 +126,12 @@ ongoing, about 60 patients at last check, CT
 [paper pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7138155/)  
 **Keywords**: medium, CT, covid
 
+### [MosMedData Covid19](https://mosmed.ai/en/)
+1000+ CTs of COVID19 patients  
+50 are annotated per pixel  
+**Keywords**: large, CT, covid, segmentations
+
+
 
 ### [ADNI](http://adni.loni.usc.edu/)
 Various imaging (longitudinal MRI), Genetics, Clinical data  

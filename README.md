@@ -121,6 +121,10 @@ Image captions
 ~100 segmented CT slices  
 **Keywords**: medium, CT, segmentations, covid
 
+### [BIMCV-COVID19](http://bimcv.cipf.es/bimcv-projects/bimcv-covid19/)
+1350+ Xrays, 150+ CTs, 800 diagnoses  
+**Keywords**: medium, CT, covid
+
 ### [BSTI COVID19](https://bsticovid19.cimar.co.uk/worklist/?embedded=)
 ongoing, about 60 patients at last check, CT  
 [paper pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7138155/)  
@@ -214,6 +218,12 @@ Single volume, ultra-high resolution MRI dataset (100-micron)
 ### [Brain Catalogue](https://braincatalogue.org/)  
 (ex-vivo) brain MRIs or brains of different animals  
 **Keywords**: small, MRI, brain, animals
+
+### [Multishell diffusion](https://figshare.com/articles/Multicenter_dataset_of_multishell_diffusion_magnetic_resonance_imaging_in_healthy_traveling_adults_with_identical_setting/8851955)
+Three Diffusion of healthy traveling adults  
+**Keywords**: small, MRI, diffusion, brain
+
+
 
 ## Non-imaging
 

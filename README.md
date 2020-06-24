@@ -81,6 +81,10 @@ Multiple Acquisitions for Standardization of Structural Imaging Validation and E
 10 3D FLAIR, T1-, and T2-weighted datasets of a single healthy subject  
 **Keywords**: large, MRI
 
+### [AOMIC: the Amsterdam Open MRI Collection](https://nilab-uva.github.io/AOMIC.github.io/)
+1000+ fMRI and other modalities subjects with annotated event files; raw and preprocessed  
+**Keywords**: medium, fMRI
+
 ### [MRIdata](http://mridata.org/)
 List of mri k-space datasets  
 

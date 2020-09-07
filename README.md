@@ -113,6 +113,10 @@ Also available through [LUng Nodule Analysis (LUNA) challenge](https://luna16.gr
 
 
 
+### [BrixIA: COVID19 severity score assessment databse](https://brixia.github.io/)  
+4703 CXR of COVID19 patients,  manually annotated Brixia score  
+**Keywords**: large, x-ray, covid
+
 ### [COVID-CT](https://github.com/UCSD-AI4H/COVID-CT)  
 349 CT images collected from several COVID19-related papers  
 Image captions  

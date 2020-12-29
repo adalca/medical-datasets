@@ -111,8 +111,6 @@ Also available through [LUng Nodule Analysis (LUNA) challenge](https://luna16.gr
   
 
 
-
-
 ### [BrixIA: COVID19 severity score assessment databse](https://brixia.github.io/)  
 4703 CXR of COVID19 patients,  manually annotated Brixia score  
 **Keywords**: large, x-ray, covid
@@ -205,6 +203,10 @@ MNI152 standard-space T1-weighted average structural template image
 A .csv file containing lesion metadata  
 [paper](https://www.nature.com/articles/sdata201811)  
 **Keywords**: medium, MRI, segmentations  
+
+### [FeTA Dataset](http://neuroimaging.ch/feta)
+48 manually annotated in utero fetal MR   
+**Keywords**: small, mri, fetal, labels
 
 ### [SIMON](http://fcon_1000.projects.nitrc.org/indi/retro/SIMON.html)
 Single voluneer, 73 Sessions at multiple sites over ~17 years  

@@ -165,6 +165,16 @@ Seems like 101 manually labelled brain MRIs
 **Keywords**: medium, MRI, brain, manual-segmentation
 
 
+### [Cross-Sectional Multidomain Lexical Processing](https://openneuro.org/datasets/ds002236/versions/1.1.0)
+3000 brain scans (T1w, bold, events)   
+Standardized tests, scores, demographics  
+**Keywords**: large, MRI, fMRI, tests
+
+
+### [CBIS-DDSM (Curated Breast Imaging Subset of DDSM)](https://wiki.cancerimagingarchive.net/display/Public/CBIS-DDSM)
+2600+ scanned film mammography studies  
+**Keywords**: large, x-ray
+
 ### [Neuromorphometrics](http://www.neuromorphometrics.com/?page_id=23#academic)
 63 manually labelled brain scans.
 Costs ($1500?)

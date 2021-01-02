@@ -214,6 +214,13 @@ A .csv file containing lesion metadata
 [paper](https://www.nature.com/articles/sdata201811)  
 **Keywords**: medium, MRI, segmentations  
 
+
+### [MITOS_WSI_CMC](https://github.com/DeepPathology/MITOS_WSI_CMC/)
+21 Canine mammary carcinoma whole slide images.  
+Annotated by 2/3 experts
+**Keywords**: small, 2D, whole slide imaging
+
+
 ### [FeTA Dataset](http://neuroimaging.ch/feta)
 48 manually annotated in utero fetal MR   
 **Keywords**: small, mri, fetal, labels

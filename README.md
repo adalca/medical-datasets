@@ -146,6 +146,10 @@ ongoing, about 60 patients at last check, CT
 50 are annotated per pixel  
 **Keywords**: large, CT, covid, segmentations
 
+### [RICORD](https://www.rsna.org/covid-19/COVID-19-RICORD/RICORD-resources)
+1000 X-rays and 240 CTs with annotations ([paper](https://pubs.rsna.org/doi/10.1148/radiol.2021203957))  
+**Keywords**: large, CT, covid, segmentations
+
 
 
 ### [ADNI](http://adni.loni.usc.edu/)

@@ -136,6 +136,10 @@ Image captions
 1350+ Xrays, 150+ CTs, 800 diagnoses  
 **Keywords**: medium, CT, covid
 
+### [COVID-19 LUNG CT LESION SEGMENTATION CHALLENGE](https://covid-segmentation.grand-challenge.org/Data/)
+~250 chest CTs with positive RT-PCR SARS-CoV-2, annotations of COVID-19 lesions
+**Keywords**: medium, CT, covid, annotations, segmentations
+
 ### [BSTI COVID19](https://bsticovid19.cimar.co.uk/worklist/?embedded=)
 ongoing, about 60 patients at last check, CT  
 [paper pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7138155/)  

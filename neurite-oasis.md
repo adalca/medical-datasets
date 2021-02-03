@@ -2,8 +2,20 @@
 
 Organized data collection including 414 subjects from the 
 [open-access OASIS dataset](oasis-brains.org) processed with FreeSurfer and SAMSEG for the [neurite package](https://github.com/adalca/neurite). 
-If you use these data, please see the [reference section](#Reference) below and cite the appropriate papers.
 
+These data were prepared by [Andrew Hoopes](https://www.nmr.mgh.harvard.edu/user/3935749) and [Adrian V. Dalca](http://www.mit.edu/~adalca/) for the following HyperMorph paper.  
+If you use this collection please cite the following and refer to the 
+[OASIS Data Use Agreement](http://oasis-brains.org/#access).
+
+ - HyperMorph: Amortized Hyperparameter Learning for Image Registration.  
+   Hoopes A, Hoffmann M, Fischl B, Guttag J, Dalca AV.   
+   arXiv preprint [arXiv:2101.01035](https://arxiv.org/abs/2101.01035), 2021. 
+
+  - Open Access Series of Imaging Studies (OASIS): Cross-Sectional MRI Data in Young, Middle Aged, Nondemented, and Demented Older Adults.  
+    Marcus DS, Wang TH, Parker J, Csernansky JG, Morris JC, Buckner RL.  
+    Journal of Cognitive Neuroscience, 19, 1498-1507.
+    
+# Download
 
 [Download v1.0 here (6.6G)](http://surfer.nmr.mgh.harvard.edu/ftp/data/neurite/data/neurite-oasis.v1.0.tar)  
 [Download v1.0 here 2D only (24M)](http://surfer.nmr.mgh.harvard.edu/ftp/data/neurite/data/neurite-oasis.2d.v1.0.tar)
@@ -56,16 +68,4 @@ For example:
              seg35.nii.gz:colormap=lut:lut=../seg35_labels.txt
 
 
-# Reference
 
-These data were prepared by Andrew Hoopes and Adrian V. Dalca for the following 
-HyperMorph paper. If you use this collection please cite the following and refer to the 
-[OASIS Data Use Agreement](oasis-brains.org/#access).
-
- - HyperMorph: Amortized Hyperparameter Learning for Image Registration.  
-   Hoopes A, Hoffmann M, Fischl B, Guttag J, Dalca AV.   
-   arXiv preprint [arXiv:2101.01035](https://arxiv.org/abs/2101.01035), 2021. 
-
-  - Open Access Series of Imaging Studies (OASIS): Cross-Sectional MRI Data in Young, Middle Aged, Nondemented, and Demented Older Adults.  
-    Marcus DS, Wang TH, Parker J, Csernansky JG, Morris JC, Buckner RL.  
-    Journal of Cognitive Neuroscience, 19, 1498-1507.

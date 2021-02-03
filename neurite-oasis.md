@@ -62,10 +62,10 @@ These data were prepared by Andrew Hoopes and Adrian V. Dalca for the following
 HyperMorph paper. If you use this collection please cite the following and refer to the 
 [OASIS Data Use Agreement](oasis-brains.org/#access).
 
-    HyperMorph: Amortized Hyperparameter Learning for Image Registration.
-    Hoopes A, Hoffmann M, Fischl B, Guttag J, Dalca AV. 
-    arXiv preprint [arXiv:2101.01035](https://arxiv.org/abs/2101.01035), 2021. 
+ - HyperMorph: Amortized Hyperparameter Learning for Image Registration.  
+   Hoopes A, Hoffmann M, Fischl B, Guttag J, Dalca AV.   
+   arXiv preprint [arXiv:2101.01035](https://arxiv.org/abs/2101.01035), 2021. 
 
-    Open Access Series of Imaging Studies (OASIS): Cross-Sectional MRI Data in Young, Middle Aged, Nondemented, and Demented Older Adults.
-    Marcus DS, Wang TH, Parker J, Csernansky JG, Morris JC, Buckner RL.
+  - Open Access Series of Imaging Studies (OASIS): Cross-Sectional MRI Data in Young, Middle Aged, Nondemented, and Demented Older Adults.  
+    Marcus DS, Wang TH, Parker J, Csernansky JG, Morris JC, Buckner RL.  
     Journal of Cognitive Neuroscience, 19, 1498-1507.

@@ -56,6 +56,11 @@ Over 3000 MRI, fMRI
 [article](https://news.vanderbilt.edu/2020/01/10/vanderbilt-researcher-shares-more-than-3000-brain-scans-to-support-the-study-of-reading-and-language-development/amp/?__twitter_impression=true) | [more resources](https://osf.io/f5bde/)  
 **Keywords**: large, MRI
 
+### [Neurite-OASIS](https://github.com/adalca/medical-datasets/blob/master/neurite-oasis.md)
+414 T1 MRIs from the OASIS dataset, processed using FreeSurfer and SAMSEG  
+Includes original images, along with processed volumes and resulting anatomical segmentation maps  
+**Keywords**: large, MRI, segmentations, labels, annotations, processed
+
 ### [MRNet](https://stanfordmlgroup.github.io/competitions/mrnet/)
 1,370 knee MRI exams with diagonsis (healthy/ACL tear/meniscal tear)  
 **Keywords**: large, MRI, labels

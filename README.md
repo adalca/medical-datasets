@@ -98,6 +98,11 @@ Multiple Acquisitions for Standardization of Structural Imaging Validation and E
 ### [MRIdata](http://mridata.org/)
 List of mri k-space datasets  
 
+### [Brain MRI LGG FLAIR abnormality segmentation](https://www.kaggle.com/mateuszbuda/lgg-mri-segmentation)
+Brain MRI images together with manual FLAIR abnormality segmentation masks  
+110 subjects from TCIA LGG collection with lower-grade glioma cases  
+**Keywords**: medium, brain, MRI, segmentation, LGG, FLAIR
+
 ### [Studyforrest](http://studyforrest.org/data.html)
 Few subjects, but many modalities (T1,T2,SWI,Angio,DWI, fMRI during Forrest Gump at 3T (audio+visual+eyetracking+physio) and 7T (audio+physio only), some audio tasks, and other important visual tasks)  
 **Keywords**: small, multi-modal

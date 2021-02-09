@@ -284,6 +284,9 @@ Prenatal brain MRI samples (looks like single subject?)
 
 ## Non-imaging
 
+### [PhysioNet / Pulmonary Edema Severity Grades Based on MIMIC-CXR](https://physionet.org/content/mimic-cxr-pe-severity/)
+This dataset is curated based on MIMIC-CXR, containing 3 metadata files that consist of pulmonary edema severity grades extracted from the MIMIC-CXR dataset through different means: 1) by regular expression (regex) from radiology reports, 2) by expert labeling from radiology reports, and 3) by consensus labeling from chest radiographs.
+
 ### [PhysioNet / Computing in Cardiology 2019 Challenge](https://physionet.org/challenge/2019/)
 predict sepsis in an ICU population  
 5000 ICU patients in three separate hospital systems  

@@ -130,35 +130,45 @@ Also available through [LUng Nodule Analysis (LUNA) challenge](https://luna16.gr
 Image captions  
 **Keywords**: medium, CT, covid
 
-### [COVID-Chest XRay](https://github.com/ieee8023/covid-chestxray-dataset)
-~150 xrays, ongoing, some hospital data  
-**Keywords**: medium, x-ray, covid
+
 
 ### [Penumonia X-Ray](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
 ~5000 xrays  
 **Keywords**: medium, x-ray, pneumonia
 
-### [MedSeg COVID-19 CT](http://medicalsegmentation.com/covid19/)
-~100 segmented CT slices  
-**Keywords**: medium, CT, segmentations, covid
+### [Medical Imaging Data Resource Center (MIDRC)](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=70230281)
+998 Chest x-ray examinations from 361 COVID+ patients.
+Annotations with appearance classification and Airspace Disease Grading
+Clinical variables
+**Keywords**: large, x-ray, covid
 
 ### [BIMCV-COVID19](http://bimcv.cipf.es/bimcv-projects/bimcv-covid19/)
 1350+ Xrays, 150+ CTs, 800 diagnoses  
-**Keywords**: medium, CT, covid
-
-### [COVID-19 LUNG CT LESION SEGMENTATION CHALLENGE](https://covid-segmentation.grand-challenge.org/Data/)
-~250 chest CTs with positive RT-PCR SARS-CoV-2, annotations of COVID-19 lesions
-**Keywords**: medium, CT, covid, annotations, segmentations
-
-### [BSTI COVID19](https://bsticovid19.cimar.co.uk/worklist/?embedded=)
-ongoing, about 60 patients at last check, CT  
-[paper pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7138155/)  
 **Keywords**: medium, CT, covid
 
 ### [MosMedData Covid19](https://mosmed.ai/en/)
 1000+ CTs of COVID19 patients  
 50 are annotated per pixel  
 **Keywords**: large, CT, covid, segmentations
+
+
+### [COVID-19 LUNG CT LESION SEGMENTATION CHALLENGE](https://covid-segmentation.grand-challenge.org/Data/)
+~250 chest CTs with positive RT-PCR SARS-CoV-2, annotations of COVID-19 lesions
+**Keywords**: medium, CT, covid, annotations, segmentations
+
+### [MedSeg COVID-19 CT](http://medicalsegmentation.com/covid19/)
+~100 segmented CT slices  
+**Keywords**: medium, CT, segmentations, covid
+
+### [COVID-Chest XRay](https://github.com/ieee8023/covid-chestxray-dataset)
+~150 xrays, ongoing, some hospital data  
+**Keywords**: medium, x-ray, covid
+
+### [BSTI COVID19](https://bsticovid19.cimar.co.uk/worklist/?embedded=)
+ongoing, about 60 patients at last check, CT  
+[paper pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7138155/)  
+**Keywords**: medium, CT, covid
+
 
 ### [RICORD](https://www.rsna.org/covid-19/COVID-19-RICORD/RICORD-resources)
 1000 X-rays and 240 CTs with annotations ([paper](https://pubs.rsna.org/doi/10.1148/radiol.2021203957))  

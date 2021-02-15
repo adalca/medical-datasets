@@ -1,5 +1,7 @@
 # [Neurite](https://github.com/adalca/neurite) OASIS Sample Data
 
+![alt text](https://surfer.nmr.mgh.harvard.edu/ftp/data/neurite/data/neurite-oasis-teaser.png)
+
 Organized data collection including 414 subjects from the 
 [open-access OASIS dataset](oasis-brains.org) processed with FreeSurfer and SAMSEG for the [neurite package](https://github.com/adalca/neurite). 
 

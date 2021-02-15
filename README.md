@@ -175,6 +175,11 @@ ongoing, about 60 patients at last check, CT
 **Keywords**: large, CT, covid, segmentations
 
 
+### [FIRE (Fundus Image Registration Dataset)](https://paperswithcode.com/dataset/fire)
+129 retinal images.  
+**Keywords**: small, fundus
+
+
 
 ### [ADNI](http://adni.loni.usc.edu/)
 Various imaging (longitudinal MRI), Genetics, Clinical data  

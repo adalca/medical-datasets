@@ -1,4 +1,4 @@
-# Medical Imaging (Online) Courses and Educational Materials
+# Medical Imaging (Online) Educational Materials
 
 ## Online Courses and Lectures
 

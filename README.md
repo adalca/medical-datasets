@@ -50,6 +50,10 @@ Part of Cancer Imaging Archive
 MRI for 8500 young (9-10yo) subjects (about 4100 for training)  
 **Keywords**: large, MRI
   
+### [AAPM Sparse-View CT Reconstruction Challenge](https://www.aapm.org/GrandChallenge/DL-sparse-view-CT/)
+4,000 simulated sinogram/image pairs of 2D breast CTs
+**Keywords**: large, CT, reconstruction
+
 ### [Cross-Sectional Multidomain Lexical Processing](https://openneuro.org/datasets/ds002236)
 two large scale neuroimaging datasets on reading and language development  
 Over 3000 MRI, fMRI  
@@ -97,6 +101,10 @@ Multiple Acquisitions for Standardization of Structural Imaging Validation and E
 
 ### [MRIdata](http://mridata.org/)
 List of mri k-space datasets  
+
+### [Cancer Imaging Archive: LDCT](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=52758026)
+601 series of CT projection data, reconstructed images, and clinical data reports
+**Keywords**: medium, CT, reconstruction
 
 ### [Brain MRI LGG FLAIR abnormality segmentation](https://www.kaggle.com/mateuszbuda/lgg-mri-segmentation)
 Brain MRI images together with manual FLAIR abnormality segmentation masks  

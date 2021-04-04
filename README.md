@@ -24,8 +24,13 @@ Need to request access
 
 ### [PadChest](http://bimcv.cipf.es/bimcv-projects/padchest/)
 160,000 images from 67,000 patients that were interpreted and reported by radiologists   
-labeled with 174 different radiographic findings,  19 differential diagnoses and 104 anatomic locations organized as a hierarchical taxonomy mapped to standard Unified Medical Language System (UMLS)  
+labeled with 174 different radiographic findings,  19 differential diagnoses and 104 anatomic locations organized as a hierarchical taxonomy mapped to standard Unified Medical Language System (UMLS)   
 **Keywords**: very-large, X-ray, labels
+
+### [IBM Xray EyE Gaze](https://physionet.org/content/egd-cxr/1.0.0/)
+1000+ dataset of eye gaze, radiological reports, dictation, segmentation on MICMIC-CXR Database  
+[code](https://github.com/cxr-eye-gaze/eye-gaze-dataset) to reproduce experiments  
+**Keywords**: medium, X-ray, labels
 
 ### [Cancer Image Archive](http://www.cancerimagingarchive.net/)
 Several collections  

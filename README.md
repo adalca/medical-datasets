@@ -193,7 +193,7 @@ ongoing, about 60 patients at last check, CT
 **Keywords**: small, fundus
 
 
-### [FLARE](Fast and Low GPU memory Abdominal oRgan sEgmentation)  
+### [FLARE: Fast and Low GPU memory Abdominal oRgan sEgmentation](https://flare.grand-challenge.org/)  
 500+ CT scans from 11+ countries with Abdominal Organ Segmentation (the liver, kidney, spleen, and pancreas)  
 **Keywords**: large, abdominal, CT
 

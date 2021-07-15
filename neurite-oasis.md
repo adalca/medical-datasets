@@ -19,8 +19,8 @@ If you use this collection please cite the following and refer to the
     
 # Download
 
-[Download v1.0 here (6.6G)](http://surfer.nmr.mgh.harvard.edu/ftp/data/neurite/data/neurite-oasis.v1.0.tar)  
-[Download v1.0 here 2D only (24M)](http://surfer.nmr.mgh.harvard.edu/ftp/data/neurite/data/neurite-oasis.2d.v1.0.tar)
+[Download v1.0 here (6.6G)](https://surfer.nmr.mgh.harvard.edu/ftp/data/neurite/data/neurite-oasis.v1.0.tar)  
+[Download v1.0 here 2D only (24M)](https://surfer.nmr.mgh.harvard.edu/ftp/data/neurite/data/neurite-oasis.2d.v1.0.tar)
 
 # Structure
 

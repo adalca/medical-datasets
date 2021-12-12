@@ -334,7 +334,7 @@ Part of tumor regions are annotated in WSIs, and the clinical characteristics in
 
 This dataset is firstly introduced in paper [Predicting Axillary Lymph Node Metastasis in Early Breast Cancer Using Deep Learning on Primary Tumor Biopsy Slides](https://arxiv.org/abs/2112.02222).
 
-**Keywords**: large, breast cancer, multi-modal, WSI, 
+**Keywords**: large, breast cancer, multi-modal, WSI, clinical characteristics
 
 
 ## Non-imaging

@@ -327,6 +327,15 @@ Three Diffusion of healthy traveling adults
 Prenatal brain MRI samples (looks like single subject?)  
 **Keywords**: small, MRI, fetal
 
+### [BCNB: Early Breast Cancer Core-Needle Biopsy WSI Dataset](https://bupt-ai-cz.github.io/BCNB/)
+**1058 WSIs with corresponding clinical characteristics are provided.** 
+
+Part of tumor regions are annotated in WSIs, and the clinical characteristics include age, tumor size, tumor type, ER, PR, HER2, HER2 expression, histological grading, surgical, Ki67, molecular subtype, number of lymph node metastases, and ALN status.
+
+This dataset is firstly introduced in paper [Predicting Axillary Lymph Node Metastasis in Early Breast Cancer Using Deep Learning on Primary Tumor Biopsy Slides](https://arxiv.org/abs/2112.02222).
+
+**Keywords**: large, breast cancer, multi-modal, WSI, clinical characteristics
+
 
 ## Non-imaging
 
@@ -342,6 +351,7 @@ predict sepsis in an ICU population
 detailed information about critical care stays for over 200,000 admissions at 200+ hospitals across the US.  
 With access to MIMIC, can access eICU-CRD immediately after signing an updated DUA.  
 [paper](https://www.nature.com/articles/sdata2018178)  
+
 
 ## Non-medical but useful / fun
 

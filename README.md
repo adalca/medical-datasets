@@ -128,6 +128,10 @@ LIDC-IDRI consists of diagonstic and lung cancer screening CTs.
 Also available through [LUng Nodule Analysis (LUNA) challenge](https://luna16.grand-challenge.org/data/)  
 **Keywords**: large, CT, labels
 
+### [Breast Cancer MRI Dataset](https://sites.duke.edu/mazurowski/resources/breast-cancer-mri-dataset/)  
+922 breast cancer patients publicly available for machine learning and clinical research.  
+Contains breast MRIs, clinical, demographics, pathology, treatment, outcomes, and genomic data as well as image annotations (locations) and features.  
+**Keywords**: large, MRI, labels
   
 ### [UK Biobank](https://biobank.ctsu.ox.ac.uk/crystal/download.cgi)
 [All imaging](http://biobank.ctsu.ox.ac.uk/crystal/search.cgi?wot=2&srch=imaging&sta0=on&sta1=on&sta2=on&sta3=on&sta4=on&str0=on&str3=on&fit0=on&fit10=on&fit20=on&fit30=on&fvt11=on&fvt21=on&fvt22=on&fvt31=on&fvt41=on&fvt51=on&fvt61=on&fvt101=on)  

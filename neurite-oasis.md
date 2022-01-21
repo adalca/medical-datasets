@@ -3,7 +3,7 @@
 ![alt text](https://surfer.nmr.mgh.harvard.edu/ftp/data/neurite/data/neurite-oasis-teaser.png)
 
 Organized data collection including 414 subjects from the 
-[open-access OASIS dataset](oasis-brains.org) processed with FreeSurfer and SAMSEG for the [neurite package](https://github.com/adalca/neurite). 
+[open-access OASIS dataset](https://oasis-brains.org) processed with FreeSurfer and SAMSEG for the [neurite package](https://github.com/adalca/neurite). 
 
 These data were prepared by [Andrew Hoopes](https://www.nmr.mgh.harvard.edu/user/3935749) and [Adrian V. Dalca](http://www.mit.edu/~adalca/) for the following HyperMorph paper.  
 If you use this collection please cite the following and refer to the 

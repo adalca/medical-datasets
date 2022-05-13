@@ -340,7 +340,7 @@ Clinical characteristics include age, tumor size, tumor type, ER, PR, HER2, HER2
 
 ### [BCI: Breast Cancer Immunohistochemical Image Generation Dataset](https://bupt-ai-cz.github.io/BCI/)
 4870 registered HE-IHC image pairs, covering four expression levels of HER2 (0, 1+, 2+, 3+).  
-**Keywords**: breast cancer, HE, IHC, HER2 detection, image-to-image translation, medical image generation
+**Keywords**: large, breast cancer, HE, IHC
 
 ## Non-imaging
 

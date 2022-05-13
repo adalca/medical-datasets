@@ -338,6 +338,9 @@ Clinical characteristics include age, tumor size, tumor type, ER, PR, HER2, HER2
 [Paper reference](https://arxiv.org/abs/2112.02222)  
 **Keywords**: large, breast cancer, multi-modal, WSI, clinical characteristics
 
+### [BCI: Breast Cancer Immunohistochemical Image Generation Dataset](https://bupt-ai-cz.github.io/BCI/)
+A breast cancer immunohistochemical (IHC) benchmark attempting to synthesize IHC data directly with the paired hematoxylin and eosin (HE) stained images. This dataset contains 4870 registered HE-IHC image pairs, covering four expression levels of HER2 (0, 1+, 2+, 3+).
+**Keywords**: breast cancer, HE, IHC, HER2 detection, image-to-image translation, medical image generation
 
 ## Non-imaging
 

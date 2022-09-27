@@ -17,10 +17,17 @@ If you use this collection please cite the following and refer to the
     Marcus DS, Wang TH, Parker J, Csernansky JG, Morris JC, Buckner RL.  
     Journal of Cognitive Neuroscience, 19, 1498-1507.
     
+In addition, we provide white matter meshes, which were processed for work in `topofit`. If you use these meshes, please cite the following:
+
+  - TopoFit: Rapid Reconstruction of Topologically-Correct Cortical Surfaces.
+    A. Hoopes, J. E. Iglesias, B. Fischl, D. Greve‡, A. V. Dalca‡
+    MIDL: Medical Imaging with Deep Learning. Accepted. 2022.
+    
 # Download
 
 [Download v1.0 here (6.6G)](https://surfer.nmr.mgh.harvard.edu/ftp/data/neurite/data/neurite-oasis.v1.0.tar)  
 [Download v1.0 here 2D only (24M)](https://surfer.nmr.mgh.harvard.edu/ftp/data/neurite/data/neurite-oasis.2d.v1.0.tar)
+[Download WM meshes for V1.0 (4.5 G)](https://surfer.nmr.mgh.harvard.edu/ftp/data/neurite/data/neurite-oasis-wm-surfaces.v1.0.tar)
 
 # Structure
 

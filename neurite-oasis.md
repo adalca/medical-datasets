@@ -19,8 +19,8 @@ If you use this collection please cite the following and refer to the
     
 In addition, we provide white matter meshes, which were processed for work in `topofit`. If you use these meshes, please cite the following:
 
-  - TopoFit: Rapid Reconstruction of Topologically-Correct Cortical Surfaces.
-    A. Hoopes, J. E. Iglesias, B. Fischl, D. Greve‡, A. V. Dalca‡
+  - TopoFit: Rapid Reconstruction of Topologically-Correct Cortical Surfaces.  
+    A. Hoopes, J. E. Iglesias, B. Fischl, D. Greve‡, A. V. Dalca‡  
     MIDL: Medical Imaging with Deep Learning. Accepted. 2022.
     
 # Download

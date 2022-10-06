@@ -9,9 +9,9 @@ These data were prepared by [Andrew Hoopes](https://www.nmr.mgh.harvard.edu/user
 If you use this collection please cite the following and refer to the 
 [OASIS Data Use Agreement](http://oasis-brains.org/#access).
 
- - [HyperMorph: Amortized Hyperparameter Learning for Image Registration](https://arxiv.org/abs/2101.01035).  
-   Hoopes A, Hoffmann M, Fischl B, Guttag J, Dalca AV.   
-   IPMI 2021.
+ - [Learning the Effect of Registration Hyperparameters with HyperMorph](https://arxiv.org/abs/2203.16680).  
+   Hoopes A, Hoffmann M, D. N. Greve, Fischl B, Guttag J, Dalca AV.   
+   MELBA 2022.
 
   - Open Access Series of Imaging Studies (OASIS): Cross-Sectional MRI Data in Young, Middle Aged, Nondemented, and Demented Older Adults.  
     Marcus DS, Wang TH, Parker J, Csernansky JG, Morris JC, Buckner RL.  

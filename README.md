@@ -364,6 +364,14 @@ detailed information about critical care stays for over 200,000 admissions at 20
 With access to MIMIC, can access eICU-CRD immediately after signing an updated DUA.  
 [paper](https://www.nature.com/articles/sdata2018178)  
 
+### [CCAgT: Images of Cervical Cells with AgNOR Stain Technique](https://doi.org/10.17632/wg4bpm33hj.2)
+9339 labeled images from 15 different slides with cervical cells stained with AgNOR technique. \
+**Keywords**: cervical cell, citology
+
+### [UFSC OCPap: Papanicolaou Stained Oral Cytology Dataset](https://doi.org/10.17632/dr7ydy9xbk.2)
+9797 labeled images acquired from 5 slides of cancer diagnosed and 3 healthy of oral brush samples, from distinct patients.\
+**Keywords**: citology, Oral Cancer Screening
+
 
 ## Non-medical but useful / fun
 

@@ -10,14 +10,15 @@ Please feel free to contribute!
 ## Datasets processed by us
 
 ### [Neurite-OASIS](https://github.com/adalca/medical-datasets/blob/master/neurite-oasis.md)
-414 T1 MRIs from the OASIS dataset, processed using FreeSurfer and SAMSEG
-Includes original images, along with processed volumes and resulting anatomical segmentation maps
+414 T1 MRIs from the OASIS dataset, processed using FreeSurfer and SAMSEG  
+Includes original images, along with processed volumes and resulting anatomical segmentation maps  
 **Keywords**: large, MRI, segmentations, labels, annotations, processed
 
 ### [SynthStrip](https://w3id.org/synthstrip)
-Full-head images and ground-truth brain masks from 622 MRI, CT, and PET scans
-Includes a landscape or MRI scans with different contrasts, resolutions, and subject populations ranging from infants to patients with glioblastoma
+Full-head images and ground-truth brain masks from 622 MRI, CT, and PET scans  
+Includes a landscape or MRI scans with different contrasts, resolutions, and subject populations ranging from infants to patients with glioblastoma  
 **Keywords**: large, diverse, multi-modal, brain masks, brain extraction, skull stripping
+
 
 ## Main Medical Imaging List
   

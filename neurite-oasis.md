@@ -25,9 +25,11 @@ In addition, we provide white matter meshes, which were processed for work in `t
     
 # Download
 
-[Download v1.0 here (6.6G)](https://surfer.nmr.mgh.harvard.edu/ftp/data/neurite/data/neurite-oasis.v1.0.tar)  
-[Download v1.0 here 2D only (24M)](https://surfer.nmr.mgh.harvard.edu/ftp/data/neurite/data/neurite-oasis.2d.v1.0.tar)  
-[Download WM meshes for V1.0 (4.5 G)](https://surfer.nmr.mgh.harvard.edu/ftp/data/neurite/data/neurite-oasis-wm-surfaces.v1.0.tar)
+[Download v1.0 here (6.6G)](https://surfer.nmr.mgh.harvard.edu/ftp/data/neurite/data/neurite-oasis.v1.0.tar)  – md5: `081392a8150ff99ab7a64a9ded377835`
+
+[Download v1.0 here 2D only (24M)](https://surfer.nmr.mgh.harvard.edu/ftp/data/neurite/data/neurite-oasis.2d.v1.0.tar)  – md5: `c9ae5864f250c7e4b8d83a104e51ae8e`
+
+[Download WM meshes for V1.0 (4.5 G)](https://surfer.nmr.mgh.harvard.edu/ftp/data/neurite/data/neurite-oasis-wm-surfaces.v1.0.tar)  – md5: `a2d0f23702ad8094b9074890df7d24df`
 
 # Structure
 

@@ -16,8 +16,9 @@ Includes original images, along with processed volumes and resulting anatomical 
 
 ### [SynthStrip](https://w3id.org/synthstrip)
 Full-head images and ground-truth brain masks from 622 MRI, CT, and PET scans  
-Includes a landscape or MRI scans with different contrasts, resolutions, and subject populations ranging from infants to patients with glioblastoma  
-**Keywords**: large, diverse, multi-modal, brain masks, brain extraction, skull stripping
+Includes a landscape or MRI scans with different contrasts, resolutions, and populations from infants to glioblastoma patients  
+Also includes anatomical segmentation maps for a subset of the images  
+**Keywords**: large, diverse, multi-modal, brain masks, segmentations, brain extraction, skull stripping
 
 
 ## Main Medical Imaging List

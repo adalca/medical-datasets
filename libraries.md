@@ -27,3 +27,5 @@ NeuroImaging in PyTorch
 [fast.ai](fast.ai)  
 A Layered API for Deep Learning
 
+[GaNDLF](https://www.cbica.upenn.edu/gandlf)
+General-purpose framework tackling multiple types of AI workloads, including but not limited to segmentation, classification, regression

@@ -1,6 +1,6 @@
 # [Neurite](https://github.com/adalca/neurite) OASIS Sample Data
 
-![alt text](https://surfer.nmr.mgh.harvard.edu/ftp/data/neurite/data/neurite-oasis-teaser.png)
+![Original and normalized OASIS MRI with 4-label and 35-label segmentations](images/neurite-oasis-teaser.png)
 
 Organized data collection including 414 subjects from the 
 [open-access OASIS dataset](https://oasis-brains.org) processed with FreeSurfer and SAMSEG for the [neurite package](https://github.com/adalca/neurite). 
@@ -25,11 +25,11 @@ In addition, we provide white matter meshes, which were processed for work in `t
     
 # Download
 
-[Download v1.0 here (6.6G)](https://surfer.nmr.mgh.harvard.edu/ftp/data/neurite/data/neurite-oasis.v1.0.tar)  – md5: `081392a8150ff99ab7a64a9ded377835`
+[Download v1.0 here (6.6G)](https://huggingface.co/datasets/DalcaLab/neurite-oasis/resolve/main/neurite-oasis.v1.0.tar?download=true)  – md5: `081392a8150ff99ab7a64a9ded377835`
 
-[Download v1.0 here 2D only (24M)](https://surfer.nmr.mgh.harvard.edu/ftp/data/neurite/data/neurite-oasis.2d.v1.0.tar)  – md5: `c9ae5864f250c7e4b8d83a104e51ae8e`
+[Download v1.0 here 2D only (24M)](https://huggingface.co/datasets/DalcaLab/neurite-oasis/resolve/main/neurite-oasis.2d.v1.0.tar?download=true)  – md5: `c9ae5864f250c7e4b8d83a104e51ae8e`
 
-[Download WM meshes for V1.0 (4.5 G)](https://surfer.nmr.mgh.harvard.edu/ftp/data/neurite/data/neurite-oasis-wm-surfaces.v1.0.tar)  – md5: `a2d0f23702ad8094b9074890df7d24df`
+[Download WM meshes for V1.0 (4.5 G)](https://huggingface.co/datasets/DalcaLab/neurite-oasis/resolve/main/neurite-oasis-wm-surfaces.v1.0.tar?download=true)  – md5: `a2d0f23702ad8094b9074890df7d24df`
 
 # Structure
 

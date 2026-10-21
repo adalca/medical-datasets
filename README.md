@@ -63,6 +63,11 @@ Part of Cancer Imaging Archive
 32000+ CT scans with annotations, meta-data, semantic labels from radiological reports  
 **Keywords**: very-large, CT, labels
 
+### [EchoXFlow](https://huggingface.co/datasets/Ahus-AIM/EchoXFlow)
+35,377 recordings from 666 clinical examinations with native beamspace B-mode, Doppler and synchronized ECG; 2D contours and 3D LV meshes on annotated subsets.  
+Public download; CC BY-NC-SA 4.0. [Paper](https://arxiv.org/abs/2605.05447) · [Code](https://github.com/Ahus-AIM/EchoXFlow)  
+**Keywords**: ultrasound, echocardiography, Doppler, ECG, multimodal, 3D, contours, meshes
+
 ### [EchoNet-Dynamic](https://echonet.github.io/dynamic/)  
 10,000+ labeled echocardiogram videos and human expert tracing  
 **Keywords**: very-large, ultrasound, labels
